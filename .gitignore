@@ -1,0 +1,8 @@
+.vscode/
+.idea/
+[._]*.sw[a-p]
+
+.chalice/deployments/
+.chalice/venv/
+
+__pycache__/
